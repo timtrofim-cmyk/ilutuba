@@ -1,0 +1,73 @@
+body {
+  background-image: url("taust.jpg");
+  font-family: Arial, sans-serif;
+  color: #5a4638;
+  padding: 30px;
+}
+
+h1 {
+  font-family: "Dancing Script", cursive;
+  font-size: 50px;
+  margin: 0;
+}
+
+.veerud {
+  display: flex;
+  gap: 30px;
+}
+
+.vasak {
+  flex: 3;
+}
+
+.parem {
+  flex: 2;
+  text-align: center;
+}
+
+.nupp {
+  color: #5a4638;
+  text-decoration: none;
+  border: 1px solid #5a4638;
+  padding: 5px 10px;
+  margin-right: 10px;
+}
+
+.nupp:hover {
+  background-color: #e8d8cc;
+}
+
+img {
+  width: 100%;
+  margin-top: 20px;
+  border: 1px solid #5a4638;
+}
+
+.ikoonid {
+  font-size: 30px;
+  margin-bottom: 15px;
+}
+
+.ikoonid i {
+  border: 1px solid #5a4638;
+  border-radius: 50%;
+  padding: 10px;
+  margin: 0 5px;
+  color: #5a4638;
+}
+
+iframe {
+  width: 100%;
+  height: 250px;
+  border: 1px solid #5a4638;
+}
+
+table {
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+th, td {
+  border: 1px solid #5a4638;
+  padding: 8px 20px;
+}
